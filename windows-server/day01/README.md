@@ -3,12 +3,12 @@
 Installed **Windows Server 2022 Datacenter** on VMware Workstation 17.  
 Configured static IP, DNS, and enabled RDP for remote access.
 
-| Step | Description | Screenshot |
-|------|--------------|-------------|
-| 10 | Network adapter detected | ![](../../images/day01/10-network-adapter.png) |
-| 11 | Static IP configured | ![](../../images/day01/11-set-ip.png) |
-| 12 | DNS set to 8.8.8.8 | ![](../../images/day01/12-set-dns.png) |
-| 13 | Verify with ipconfig | ![](../../images/day01/13-ipconfig-results.png) |
-| 14 | Ping test success | ![](../../images/day01/14-ping-test.png) |
-| 15 | RDP enabled | ![](../../images/day01/15-rdp-enabled.png) |
-| 16 | RDP connected | ![](../../images/day01/16-rdp-connected.png) |
+| Step | Description              | Screenshot                                          |
+| ---- | ------------------------ | --------------------------------------------------- |
+| 10   | Network adapter detected | ![Network adapter](./images/10-network-adapter.png) |
+| 11   | Static IP configured     | ![Static IP](./images/11-set-ip.png)                |
+| 12   | DNS set to 8.8.8.8       | ![DNS set](./images/12-set-dns.png)                 |
+| 13   | Verify with ipconfig     | ![ipconfig](./images/13-ipconfig-results.png)       |
+| 14   | Ping test success        | ![Ping test](./images/14-ping-test.png)             |
+| 15   | RDP enabled              | ![RDP enabled](./images/15-rdp-enabled.png)         |
+| 16   | RDP connected            | ![RDP connected](./images/16-rdp-connected.png)     |
