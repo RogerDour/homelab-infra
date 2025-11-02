@@ -1,0 +1,15 @@
+# Ignore VMware files
+vmware/
+*.vmdk
+*.vmem
+*.vmss
+*.nvram
+*.vmsn
+*.vmsd
+*.vmx
+*.log
+*.iso
+
+# Ignore OS cruft
+Thumbs.db
+.DS_Store
